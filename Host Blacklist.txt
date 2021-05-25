@@ -115512,3 +115512,6 @@
 127.0.0.1 welcome.indihome.co.id
 127.0.0.1 upoint.id
 127.0.0.1 uzone.id
+
+127.0.0.1	update.glasswire.com
+127.0.0.1	activate.glasswire.com
