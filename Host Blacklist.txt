@@ -115515,3 +115515,10 @@
 
 127.0.0.1	update.glasswire.com
 127.0.0.1	activate.glasswire.com
+
+127.0.0.1	apiid.ldmnq.com
+127.0.0.1	encdn.ldmnq.comwalikunlun.com
+127.0.0.1	www.tm.a.prd.aadg.traffictmanager.net
+127.0.0.1	adabdapi.ldmnq.com
+
+
