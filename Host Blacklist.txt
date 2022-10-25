@@ -52152,8 +52152,6 @@
 0.0.0.0 west.bidtellect.com
 0.0.0.0 api.west.bidtellect.com
 
-# [bing.com]
-0.0.0.0 bat.bing.com
 
 # [bitmango.com]
 0.0.0.0 a.bitmango.com
@@ -115520,5 +115518,5 @@
 127.0.0.1	encdn.ldmnq.comwalikunlun.com
 127.0.0.1	www.tm.a.prd.aadg.traffictmanager.net
 127.0.0.1	adabdapi.ldmnq.com
-
+127.0.0.1	
 
